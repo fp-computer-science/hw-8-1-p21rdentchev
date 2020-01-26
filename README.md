@@ -1,31 +1,44 @@
 <h1 align="center">
     Fairfield College Preparatory School<br>
     Computer Programming - Mr. Mesquita<br>
-    HW 10-2
+    HW 10-3
 </h1>
 
 <h2 align="center">
-    Due before 8:30 AM on 1/31 (20 pts.)<br>
-    https://classroom.github.com/a/oKEUblVA
+    Due before 8:30 AM on 1/31 (10 pts.)<br>
+    https://classroom.github.com/a/EjMJTt3l
 </h2>
 
-### Strings Operations & Methods
+### Lists
 
 ---
 
-Answer each of the following questions in a separate Python file. In your heading, put your name and the date you began working on the file. Name each file hw10-2-question_number.
+Answer each of the following questions in the same Python file. In your heading, put your name and the date you began working on the file. 
 
-Example
+Be sure to label where your answer to each question starts using comments.
+``` python
+# Question 0
+my answer to question 0
 ```
-hw10-2-1.py
-```
 
-1. Write a program that prompts the user to enter a string. The program should then split the string in 2, print the first half of the string, and then print the second half of the string. (5 pts.)
+1. Write a one line statement that will create a list that contains the numbers `0` to `5`. Assign a variable to this list.
 
-2. Write a program that prompts the user to enter a 6 letter word. The program should then take the odd numbered letters and create a new string where each substring is separated by dashes. The same should be done for the even numbered letters. Print the odd letters string then the even letters string. (5 pts.)
+2. Write a one line statement that prints the length of the list.
 
-3. Write a program that prompts the user to enter a string. The program should then check if the string the user entered is a palindrome, and print the result. Be sure to include the word the user input and the reverse of the word in your final print statement. (5 pts.)
+3. Write a one line statement that prints the third element of the list.
 
-4. Write a program that prompts the user for 3 unique words. The program should then alphabetize the words and return the words in their correct alphabetized order. Make sure 'A' and 'a' are treated as the same value. (5 pts.)
+4. Write a one line statement that prints `False` when checking if `5` is in the list.
+
+5. Write a one line statement that prints `True` when checking if `10` is in the list.
+
+6. Write a one line statement that creates another list that contains the names of the people in your row in the order that you sit from the front of the room to the back of the room. Assign a different variable to this list.
+
+7. Write a one line statement that prints your name.
+
+8. Write a one line statement that repeats your list 3 times.
+
+9. Write a one line statement that combines your list from the first half of this assignment and your list from the second half of the assignment.
+
+10. Write a one line statement that prints the length of this new list.
 
 <p align="center">	Be sure to commit your code before the deadline. Only the latest commit will be graded.</p>
