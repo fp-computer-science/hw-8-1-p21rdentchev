@@ -1,27 +1,30 @@
 <h1 align="center">
     Fairfield College Preparatory School<br>
     Computer Programming - Mr. Mesquita<br>
-    HW 10-3
+    HW 8-1
 </h1>
 
 <h2 align="center">
-    Due before 8:30 AM on 1/31 (10 pts.)<br>
-    https://classroom.github.com/a/EjMJTt3l
+    Due before 8:30 AM on 11/18 (10 pts.)<br>
+    https://classroom.github.com/a/eJEhVT17
 </h2>
 
 ### Lists
 
 ---
 
-Answer each of the following questions in the same Python file. In your heading, put your name and the date you began working on the file. 
+Answer each of the following questions in the same Python file named `hw8-1.py`. In your heading, put your name and the date you began working on the file.
 
-Be sure to label where your answer to each question starts using comments.
+Each question should consist of 2 lines. The first line should be a comment with `Question #` where the `#` is the number of the question. The next line should print the use of a statement that completes the desired task.
+
+*Example*
+
 ``` python
 # Question 0
-my answer to question 0
+your answer to the question
 ```
 
-1. Write a one line statement that will create a list that contains the numbers `0` to `5`. Assign a variable to this list.
+1. Write a one line statement that will create a list that contains the numbers `0` to `7`. Assign a variable to this list.
 
 2. Write a one line statement that prints the length of the list.
 
@@ -31,9 +34,9 @@ my answer to question 0
 
 5. Write a one line statement that prints `True` when checking if `10` is in the list.
 
-6. Write a one line statement that creates another list that contains the names of the people in your row in the order that you sit from the front of the room to the back of the room. Assign a different variable to this list.
+6. Write a one line statement that creates another list that contains the names of 3 other people in the class. Make sure the names are in alphabetical order. Assign a different variable to this list.
 
-7. Write a one line statement that prints your name.
+7. Write a one line statement that prints your name from the list.
 
 8. Write a one line statement that repeats your list 3 times.
 
